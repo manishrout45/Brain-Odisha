@@ -11,23 +11,23 @@ import {
 export default function BrainDiseaseSection() {
   const diseases = [
     {
-      name: "Alzheimer’s Disease",
-      desc: "A progressive brain disorder causing memory loss, confusion, and difficulty in daily activities.",
+      name: "Neurodegenerative Diseases",
+      desc: "It refers to the gradual loss of neural structures affecting the brain and spinal cord functionality, or complete failure of organs. E.gAlzheimer’s, Parkinson’s diseases, Multiple Sclerosis, etc. ",
       icon: <Brain />,
     },
     {
       name: "Brain Tumor",
-      desc: "Abnormal growth of brain cells which can be benign or cancerous, affecting brain function.",
+      desc: " The abnormal growth of cells in a mass inside the brain, categorized into benign or malignant, affecting brain functionality",
       icon: <Activity />,
     },
     {
-      name: "Parkinson’s Disease",
-      desc: "A nervous system disorder that affects movement, balance, and muscle control.",
+      name: "Seizure",
+      desc: " Sudden failure of neural activity leading to temporary changes in behaviour,sensation, and movement due to excessive electrical signals in neurons.",
       icon: <HeartPulse />,
     },
     {
       name: "Stroke",
-      desc: "Occurs when blood supply to the brain is interrupted, causing brain cell damage.",
+      desc: "When blood flow to the brain is disrupted due to a rupture or blockage in the blood vessels.",
       icon: <AlertCircle />,
     },
   ];
@@ -58,12 +58,13 @@ export default function BrainDiseaseSection() {
             BRAIN CARE
           </span>
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-gray-900 leading-tight">
-            Brain Diseases, Prevention <br className="hidden sm:block" />
-            & Treatment Guidelines
+            Common Neuro Diseases,  <br className="hidden sm:block" />
+             Prevention, and Treatment Procedures
           </h2>
           <p className="mt-4 text-gray-600 text-sm md:text-base">
-            Early awareness, proper prevention, and timely treatment play a
-            vital role in maintaining brain health.
+            Understanding neurological diseases, prevention tips, and treatment approaches helps
+maintain overall health.
+
           </p>
         </div>
 
@@ -73,7 +74,7 @@ export default function BrainDiseaseSection() {
           {/* ===== DISEASE LIST ===== */}
           <div className="lg:col-span-2 bg-white rounded-2xl shadow-sm border border-gray-100 p-6 md:p-8">
             <h3 className="text-xl font-semibold text-gray-900 mb-6">
-              Common Brain Diseases
+              Common Neuro Disorders
             </h3>
 
             <ul className="space-y-5">

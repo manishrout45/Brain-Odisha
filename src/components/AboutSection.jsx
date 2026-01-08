@@ -19,13 +19,20 @@ export default function AboutSection() {
               />
             </div>
 
-            {/* EXPERIENCE CIRCLE */}
-            <div className="absolute bottom-24 left-1/2 -translate-x-1/2 z-20">
-              <div className="w-40 h-40 rounded-full bg-[#142f7a] text-white flex flex-col items-center justify-center shadow-2xl border-[10px] border-white">
-                <p className="text-4xl font-extrabold">30+</p>
-                <p className="text-sm tracking-wide">Years in Neurology Care</p>
-              </div>
-            </div>
+                {/* EXPERIENCE CIRCLE */}
+                <div className="absolute bottom-24 left-1/2 -translate-x-1/2 z-20">
+                  <div className="w-40 h-40 rounded-full bg-[#142f7a] text-white 
+                                  flex flex-col items-center justify-center 
+                                  text-center shadow-2xl border-[10px] border-white">
+                    
+                    <p className="text-4xl font-extrabold leading-none">30+</p>
+                    <p className="text-sm tracking-wide mt-1 leading-tight">
+                      Years in Neurology Care
+                    </p>
+
+                  </div>
+                </div>
+
 
             {/* BOTTOM IMAGE */}
             <div className="absolute bottom-0 right-0 w-[360px] h-[220px] rounded-2xl overflow-hidden shadow-xl">
@@ -58,24 +65,26 @@ export default function AboutSection() {
             </span>
 
             <h2 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-gray-900 leading-tight">
-              Understanding the Brain, <br />
-              <span className="text-blue-700">Nerves & Nervous System.</span>
+              Neurology, <br />
+              <span className="text-blue-700">The Commando of Central and Peripheral Nervous
+System </span>
             </h2>
 
             <p className="text-gray-600 max-w-xl mx-auto lg:mx-0 leading-relaxed">
-              Neurology is a specialized branch of medicine focused on the
-              diagnosis, treatment, and prevention of disorders affecting the
-              brain, spinal cord, nerves, and muscles. It plays a crucial role
-              in maintaining cognitive function, movement, sensation, and
-              overall neurological health.
+              Neurology is a branch of medicine that plays the most vital role, focusing on the “Command
+Center”. From movement to sensation, and from organ regulation to bodily function, the
+department addresses the management and treatment of complex brain and spine disorders
+to enhance the quality of life for individuals suffering from neural diseases. In an overview,
+this department deals with:
+
             </p>
 
             {/* CHECK LIST */}
             <div className="space-y-5 pt-2">
               {[
-                "Diagnosis and treatment of brain and nerve disorders",
-                "Management of stroke, epilepsy, Parkinson’s & Alzheimer’s",
-                "Advanced neurological testing and long-term care planning",
+                "Diagnosis and Treatment of CNS( Central Nervous System-Brain & Spinal Cord) and PNS( Peripheral Nervous System- Outer Nerves Providing Signals to Brain and Spinal Cord) disorders.",
+                "Advanced Neurological Testing, Rehabilitation, and Long-term Care Planning for Parkinson’s Disease, Alzheimer’s Disease, Stroke, and Epilepsy Disorders.",
+                
               ].map((item, index) => (
                 <div
                   key={index}

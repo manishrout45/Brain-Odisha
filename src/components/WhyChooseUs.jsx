@@ -55,44 +55,50 @@ export default function WhyChooseUs() {
         {/* -------- LEFT COLUMN -------- */}
         <div>
           <p className="text-white/70 max-w-sm mb-10 text-sm md:text-base leading-relaxed">
-            Our neurology department delivers expert care for complex brain
-            and nervous system disorders with a patient-centered approach,
-            ensuring accurate diagnosis and effective treatment.
+            Neurology is a lifeline for those suffering from several neurological disorders and looking for
+a solution to get treated for their health conditions. Without this important medical field, the
+diagnosis and treatment of complex neural diseases would become impossible. Here’s why
+this department stands out from the crowd and is the toughest field among other medical
+branches.
           </p>
 
           <div className="space-y-6">
 
             <div className="bg-[#0f1f5e] rounded-2xl p-5 flex gap-4 text-white">
-              <Brain className="w-6 h-6 mt-1" />
+              <Brain className="w-12 h-12 " />
               <div>
-                <h4 className="font-bold">Brain Disorder Treatment</h4>
+                <h4 className="font-bold">Complex Brain Disorder Diagnosis</h4>
                 <p className="text-sm text-white/70 mb-2">
-                  Specialized care for brain tumors, epilepsy, dementia,
-                  and neurodegenerative diseases.
+                  With the Help of Neuroimaging Advancements
+like PET Scanning, it is now possible to scan the details of brain cells to detect the
+early stages of Epilepsy and Multiple Sclerosis, Alzheimer’s, and Parkinson’s
+Disease.
                 </p>
                 
               </div>
             </div>
 
             <div className="bg-[#0f1f5e] rounded-2xl p-5 flex gap-4 text-white">
-              <Activity className="w-6 h-6 mt-1" />
+              <Activity className="w-12 h-12" />
               <div>
-                <h4 className="font-bold">Stroke & Neuro ICU Care</h4>
+                <h4 className="font-bold">Advance Care for Neurodegenerative Diseases</h4>
                 <p className="text-sm text-white/70 mb-2">
-                  Emergency stroke management and intensive neurological
-                  monitoring for critical patients.
+                  Several complex neural disorders
+are now treatable with medically approved drugs, prescribed by a neurologist.
                 </p>
                 
               </div>
             </div>
 
             <div className="bg-[#0f1f5e] rounded-2xl p-5 flex gap-4 text-white">
-              <Stethoscope className="w-6 h-6 mt-1" />
+              <Stethoscope className="w-12 h-12" />
               <div>
-                <h4 className="font-bold">Neuro Diagnostics</h4>
+                <h4 className="font-bold">Minimally Invasive Surgery</h4>
                 <p className="text-sm text-white/70 mb-2">
-                  Advanced MRI, EEG, EMG, and nerve conduction studies
-                  for precise neurological diagnosis.
+                  With the advancement in neuroscience, minimally
+invasive surgery is creating hope for brain and spinal tumor surgery with less scarring
+and faster recovery.
+
                 </p>
                 
               </div>
@@ -108,8 +114,8 @@ export default function WhyChooseUs() {
           </p>
 
           <h3 className="text-3xl md:text-4xl font-extrabold text-white leading-tight mb-8 text-center lg:text-left">
-            Comprehensive Neurology <br />
-            & Brain Health Solutions
+            Why is Neurology  <br />
+            Important?
           </h3>
 
           <img
