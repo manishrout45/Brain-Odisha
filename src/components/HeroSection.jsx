@@ -8,7 +8,7 @@ export default function HeroSection() {
       {/* BACKGROUND IMAGE */}
       <div className="absolute inset-0">
         <img
-          src="/assets/images/BrainOdisha-Hero.jpg"
+          src="https://img.freepik.com/premium-photo/doctor-holding-digital-brain_343170-26136.jpg?ga=GA1.1.1312737827.1743758138&semt=ais_hybrid&w=740&q=80"
           alt="Brain Disease Awareness"
           className="w-full h-full object-cover object-center"
         />
