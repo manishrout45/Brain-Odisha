@@ -13,7 +13,7 @@ export default function AboutSection() {
             {/* MAIN IMAGE */}
             <div className="relative w-full h-[520px] rounded-2xl overflow-hidden">
               <img
-                src="https://img.freepik.com/premium-photo/medical-team-reviewing-x-ray-laptop-collaborative-consultation_1134-127471.jpg?ga=GA1.1.1312737827.1743758138&semt=ais_hybrid&w=740&q=80"
+                src="/assets/images/AboutImg.jpg"
                 alt="Neurology Specialists"
                 className="w-full h-full object-cover"
               />

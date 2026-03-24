@@ -6,37 +6,37 @@ const services = [
     tag: "Neurology Consultation",
     title: "Expert Brain & Nerve Evaluation",
     image:
-      "https://img.freepik.com/free-photo/doctor-doing-girl-s-brain-scan-procedure-scientific-lab-brain-waves-scanning-helmet_482257-31628.jpg?ga=GA1.1.1312737827.1743758138&semt=ais_hybrid&w=740&q=80",
+      "https://img.freepik.com/free-photo/medical-expert-patient-meeting-check-up-appointment_482257-118464.jpg?uid=R162123361&ga=GA1.1.1312737827.1743758138&semt=ais_hybrid&w=740&q=80",
   },
   {
     tag: "Stroke Care",
     title: "Advanced Stroke Treatment",
     image:
-      "https://img.freepik.com/premium-photo/doctor-consoling-senior-man_107420-67719.jpg?ga=GA1.1.1312737827.1743758138&semt=ais_hybrid&w=740&q=80",
+      "https://img.freepik.com/free-photo/realistic-scene-with-elderly-care-senior-people_23-2151231527.jpg?uid=R162123361&ga=GA1.1.1312737827.1743758138&semt=ais_hybrid&w=740&q=80",
   },
   {
     tag: "Neurosurgery",
     title: "Brain & Spine Surgery",
     image:
-      "https://img.freepik.com/premium-photo/advanced-medical-imaging-surgeon-with-holographic-brain-model-hightech-operating-room_49047-3908.jpg?ga=GA1.1.1312737827.1743758138&semt=ais_hybrid&w=740&q=80",
+      "https://img.freepik.com/free-photo/indian-general-practitioner-nurse-examine-hospital-records-x-ray-tests_482257-118417.jpg?uid=R162123361&ga=GA1.1.1312737827.1743758138&semt=ais_hybrid&w=740&q=80",
   },
   {
     tag: "Epilepsy Center",
     title: "Seizure Diagnosis & Management",
     image:
-      "https://img.freepik.com/premium-photo/rear-view-young-woman-using-digital-tablet-while-sitting-table_1048944-2563233.jpg?ga=GA1.1.1312737827.1743758138&semt=ais_hybrid&w=740&q=80",
+      "https://img.freepik.com/premium-photo/nurse-performing-cpr-patient-emergency-room-with-defibrillator-nearby_1271419-17008.jpg?uid=R162123361&ga=GA1.1.1312737827.1743758138&semt=ais_hybrid&w=740&q=80",
   },
   {
     tag: "Neuro Diagnostics",
     title: "MRI, EEG & Nerve Tests",
     image:
-      "https://img.freepik.com/free-photo/senior-woman-hospital-office-looking-brain-ct-scan-while-discussing-with-doctor-about-diagnosis-sick-young-woman-elderly-medic-with-grey-hair-clinic-corridor_482257-9563.jpg?ga=GA1.1.1312737827.1743758138&semt=ais_hybrid&w=740&q=80",
+      "https://img.freepik.com/premium-photo/male-radiographer-looking-xray-image_249974-20477.jpg?uid=R162123361&ga=GA1.1.1312737827.1743758138&semt=ais_hybrid&w=740&q=80",
   },
   {
     tag: "Rehabilitation",
     title: "Neuro Recovery & Physiotherapy",
     image:
-      "https://img.freepik.com/free-photo/back-view-man-patient-wearing-performant-brainwave-scanning-headset-sitting-neurological-research-laboratory-while-medical-researcher-adjusting-it-examining-nervous-system-typing-tablet_482257-13184.jpg?ga=GA1.1.1312737827.1743758138&semt=ais_hybrid&w=740&q=80",
+      "https://img.freepik.com/premium-photo/nurse-assisting-elderly-man-wheelchair-with-dumbbell-exercises_636346-1468.jpg?uid=R162123361&ga=GA1.1.1312737827.1743758138&semt=ais_hybrid&w=740&q=80",
   },
 ];
 
